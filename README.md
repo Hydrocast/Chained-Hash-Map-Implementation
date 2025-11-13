@@ -43,7 +43,7 @@ This project demonstrates the design, implementation, and testing of a hash tabl
 ## Usage
 
 1. Clone the repository:
-git clone <repository-url>
+git clone https://github.com/Hydrocast/-Chained-Hash-Map-Implementation
 cd ChainedHashMap
 
 2. Run the Python script:
